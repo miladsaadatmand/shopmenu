@@ -10,7 +10,7 @@ const categories = [
         name: " مخصوص شاپ",
         description:
           "ژامبون مرغ + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
-        image: "/images/shop.png",
+        image: "/images/special.png",
         price: 320,
       },
       {
