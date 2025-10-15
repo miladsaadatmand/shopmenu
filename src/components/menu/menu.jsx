@@ -67,7 +67,7 @@ function Menu() {
 
       <div className={style.logo}>
         <div className={style.logoR}>
-          <img src="images/logo2.png" alt="" />
+          <img src="images/logo.png" alt="" />
         </div>
         <div className={style.logoL}>
           <span>اولین پیتزا فروشی در اصفهان</span>

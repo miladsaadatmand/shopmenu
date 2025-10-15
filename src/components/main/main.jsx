@@ -21,7 +21,7 @@ function Main() {
               <div className={style.img}>
                 {/* 👇 حالا لوگو از public/images/logo2.png خونده میشه */}
                 <img
-                  src="/images/logo2.png"
+                  src="/images/logo.png"
                   alt="لوگو"
                   className={style.logo}
                 />
@@ -39,7 +39,7 @@ function Main() {
                 <div className={style.menuLogo}>
                   <div className={style.background}>
                     <div className={style.menuImg}>
-                      <img src="/images/menulogo.png" alt="منو" />
+                      <img src="/images/menu.png" alt="منو" />
                     </div>
                   </div>
                 </div>

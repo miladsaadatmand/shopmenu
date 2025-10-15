@@ -26,7 +26,7 @@ const categories = [
         name: " کراکف",
         description:
           "سوسیس کراکف + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 320,
       },
       {
@@ -93,7 +93,7 @@ const categories = [
         name: " مخصوص شاپ",
         description:
           "ژامبون مرغ + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
-        image: "/images/shop.png",
+        image: "/images/special.png",
         price: 595,
       },
       {
@@ -109,7 +109,7 @@ const categories = [
         name: " کراکف",
         description:
           "سوسیس کراکف + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 595,
       },
       {
@@ -175,7 +175,7 @@ const categories = [
         id: 301,
         name: "همبرگر",
         description: "گوشت برگر + نان گرد + کاهو + خیارشور + گوجه + سس مخصوص",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 240,
       },
       {
@@ -183,7 +183,7 @@ const categories = [
         name: "قارچ برگر",
         description:
           "گوشت برگر + قارچ بلانچ + نان گرد + کاهو + خیارشور + گوجه + سس مخصوص",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 255,
       },
       {
@@ -191,7 +191,7 @@ const categories = [
         name: "چیزبرگر",
         description:
           "گوشت برگر + ۳ مدل پنیر ترکیبی + نان گرد + کاهو + خیارشور + گوجه + سس مخصوص",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 255,
       },
       {
@@ -199,7 +199,7 @@ const categories = [
         name: "چیزبرگر با قارچ",
         description:
           "گوشت برگر + ۳ مدل پنیر ترکیبی + قارچ بلانچ + نان گرد + کاهو + خیارشور + گوجه + سس مخصوص",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 275,
       },
       {
@@ -207,7 +207,7 @@ const categories = [
         name: "ساندویچ رست چیکن",
         description:
           "سینه مرغ ریش‌شده + فلفل دلمه‌ای + ۳ مدل پنیر ترکیبی + گوجه + کاهو + خیارشور + سس مخصوص شاپ",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 240,
       },
       {
@@ -215,7 +215,7 @@ const categories = [
         name: "ساندویچ رست بیف",
         description:
           "گوشت ریش‌شده + فلفل دلمه‌ای + ۳ مدل پنیر ترکیبی + گوجه + کاهو + خیارشور + سس مخصوص شاپ",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 300,
       },
     ],
@@ -228,14 +228,14 @@ const categories = [
         id: 401,
         name: "سالاد فصل بزرگ",
         description: "کاهو، کلم، گوجه، خیار، ذرت، نخود، کلم قرمز، هویج و زیتون",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 95,
       },
       {
         id: 402,
         name: "سالاد فصل کوچک",
         description: "کاهو، کلم، گوجه، خیار، ذرت، نخود، کلم قرمز، هویج و زیتون",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 75,
       },
     ],
@@ -248,35 +248,35 @@ const categories = [
         id: 501,
         name: "نوشابه خانواده",
         description: "نوشیدنی",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 57,
       },
       {
         id: 502,
         name: "نوشابه قوطی",
         description: "نوشیدنی",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 42,
       },
       {
         id: 503,
         name: "دلستر هی دی",
         description: "نوشیدنی",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 50,
       },
       {
         id: 504,
         name: "آب معدنی",
         description: "نوشیدنی",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 10,
       },
       {
         id: 505,
         name: "دوغ",
         description: "نوشیدنی",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 26,
       },
     ],
@@ -289,14 +289,14 @@ const categories = [
         id: 601,
         name: "قارچ و پنیر اضافه روی پیتزا",
         description: "اضافه‌ها",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 60,
       },
       {
         id: 602,
         name: "سس مخصوص شاپ",
         description: "اضافه‌ها",
-        image: "/images/logo2.png",
+        image: "/images/logo.png",
         price: 30,
       },
     ],

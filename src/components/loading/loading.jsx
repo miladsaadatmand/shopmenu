@@ -25,7 +25,7 @@ function Loading({ onFinished }) {
 
     return (
         <div className={`${style.container} ${fadeOut ? style.fadeOut : ''}`}>
-            <img src="images/logo2.PNG" alt="Logo" className={style.logo} />
+            <img src="/images/logo.png" alt="Logo" className={style.logo} />
             <p className={style.text}>در حال بارگذاری...</p>
             <div className={style.spinner}></div>
         </div>
