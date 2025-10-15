@@ -1,0 +1,68 @@
+.backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    z-index: 1000;
+    transition: background 0.3s ease;
+}
+.sheet {
+    background: white;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 16px 16px 0 0;
+    padding: 2rem 1.5rem;
+    position: relative;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.1);
+    transform: translateY(100%);
+    transition: transform 0.3s ease;
+    height: 60vh;
+    overflow-y: auto;
+}
+
+.sheetOpen {
+    transform: translateY(0);
+}
+
+.sheetClose {
+    transform: translateY(100%);
+}
+
+.closeButton {
+    position: absolute;
+    right: 1rem;
+    top: 0rem;
+    background: transparent;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.foodImage {
+    width: 100%;
+    height: 50%;
+    padding: 0 50px;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 1rem;
+    color: #333;
+    text-align: center;
+    display: flex;
+}
+
+.detail {
+    display: flex;
+    direction: rtl;
+    justify-content: center;
+    flex-direction: column;
+    border-bottom: 3px solid #FBB913;
+    height: 35%;
+    gap: 10px;
+}

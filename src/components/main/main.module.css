@@ -1,0 +1,172 @@
+.main {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.header {
+    width: 100%;
+    height: 200px;
+    background-color: #B7212C;
+    border-bottom-left-radius: 50% 25%;
+    border-bottom-right-radius: 50% 25%;
+    position: relative;
+}
+
+.logoWrapper {
+    width: 125px;
+    height: 125px;
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+    border-radius: 50%;
+    padding: 20px;
+    box-shadow: 0 0 8px #8d08086b;
+}
+
+img img {
+    width: 90px;
+    height: 90px;
+}
+
+.logo {
+    width: 90px;
+    height: 90px;
+}
+
+.name {
+    padding-bottom: 35px;
+}
+
+.name span {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 55px;
+    font-weight: 900;
+}
+
+.menu {
+    width: 95%;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    border: 2px solid rgba(222, 222, 222, 0.32);
+    background-color: rgba(222, 222, 222, 0.32);
+    border-radius: 8px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.menuLogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 20px;
+    width: 20%;
+    height: 80%;
+}
+
+.background {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(197, 197, 197, 0.539);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.menuImg {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.menuImg img {
+    width: 70%;
+    height: 90%;
+}
+
+.detail {
+    right: -30px;
+    position: relative;
+    top: -65px;
+}
+
+
+
+
+
+.main {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.menu {
+    width: 95%;
+    height: 75px;
+    margin: 0 auto;
+    display: flex;
+    border: 2px solid rgba(135, 135, 135, 0.135);
+    background-color: rgba(198, 198, 198, 0.322);
+    border-radius: 8px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.menuLogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 20px;
+    width: 25%;
+    height: 105px;
+}
+
+.background {
+    width: 90%;
+    height: 80%;
+    background-color: rgba(197, 197, 197, 0.539);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.menuImg {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.menuImg img {
+    width: 70%;
+    height: 90%;
+}
+
+.detail {
+    right: -50px;
+    position: relative;
+    top: -55px;
+}
+
+.linkWrapper {
+    width: 95%;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+a{
+    width: 95%;
+}
