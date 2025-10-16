@@ -20,11 +20,7 @@ function Main() {
             <div className={style.logoWrapper}>
               <div className={style.img}>
                 {/* 👇 حالا لوگو از public/images/logo2.png خونده میشه */}
-                <img
-                  src="/images/logo.png"
-                  alt="لوگو"
-                  className={style.logo}
-                />
+                <img src="/images/logo.png" alt="لوگو" className={style.logo} />
               </div>
             </div>
           </div>
@@ -102,6 +98,22 @@ function Main() {
               </div>
               <div className={style.detail}>
                 <span>شماره تماس</span>
+              </div>
+            </div>
+          </a>
+          <a href="tel:09133275608" className={style.linkWrapper}>
+            <div className={style.main}>
+              <div className={style.menu}>
+                <div className={style.menuLogo}>
+                  <div className={style.background}>
+                    <div className={style.menuImg}>
+                      <img src="/images/customer-service.png" alt="تماس" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className={style.detail}>
+                <span>ارتباط با ما</span>
               </div>
             </div>
           </a>
