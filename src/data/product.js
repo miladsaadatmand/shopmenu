@@ -249,14 +249,14 @@ const categories = [
         name: "نوشابه خانواده",
         description: "نوشیدنی",
         image: "/images/logo.png",
-        price: 59,
+        price: 68,
       },
       {
         id: 502,
         name: "نوشابه قوطی",
         description: "نوشیدنی",
         image: "/images/logo.png",
-        price: 45,
+        price: 50,
       },
       {
         id: 503,
