@@ -11,7 +11,7 @@ const categories = [
         description:
           "ژامبون مرغ + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/shop.png",
-        price: 340,
+        price: 420,
       },
       {
         id: 102,
@@ -19,7 +19,7 @@ const categories = [
         description:
           "پپرونی + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/peperoni.png",
-        price: 350,
+        price: 430,
       },
       {
         id: 103,
@@ -27,7 +27,7 @@ const categories = [
         description:
           "سوسیس کراکف + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/logo.png",
-        price: 340,
+        price: 420,
       },
       {
         id: 104,
@@ -35,7 +35,7 @@ const categories = [
         description:
           "گوشت چرخ‌کرده + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/goosht.png",
-        price: 395,
+        price: 475,
       },
       {
         id: 105,
@@ -43,7 +43,7 @@ const categories = [
         description:
           "گوشت ریش‌شده + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/roast.png",
-        price: 415,
+        price: 495,
       },
       {
         id: 106,
@@ -51,7 +51,7 @@ const categories = [
         description:
           "سینه مرغ ریش‌شده + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/chicken.png",
-        price: 375,
+        price: 455,
       },
       {
         id: 107,
@@ -59,28 +59,28 @@ const categories = [
         description:
           "نخودفرنگی + ذرت + قارچ بلانچ + فلفل دلمه‌ای + پیاز + ۳ مدل پنیر ترکیبی",
         image: "/images/sabzi.png",
-        price: 310,
+        price: 390,
       },
       {
         id: 108,
         name: "قارچ و فلفل",
         description: "قارچ بلانچ + فلفل دلمه‌ای + ۳ مدل پنیر ترکیبی",
         image: "/images/gharch-felfel.png",
-        price: 300,
+        price: 380,
       },
       {
         id: 109,
         name: "قارچ و پنیر",
         description: "قارچ بلانچ + ۳ مدل پنیر ترکیبی",
         image: "/images/gharch-panir.png",
-        price: 300,
+        price: 380,
       },
       {
         id: 110,
         name: "پنیر",
         description: "۳ مدل پنیر ترکیبی",
         image: "/images/panir.png",
-        price: 280,
+        price: 360,
       },
     ],
   },
@@ -94,7 +94,7 @@ const categories = [
         description:
           "ژامبون مرغ + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/shop.png",
-        price: 635,
+        price: 780,
       },
       {
         id: 202,
@@ -102,7 +102,7 @@ const categories = [
         description:
           "پپرونی + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/peperoni.png",
-        price: 655,
+        price: 800,
       },
       {
         id: 203,
@@ -110,7 +110,7 @@ const categories = [
         description:
           "سوسیس کراکف + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/logo.png",
-        price: 635,
+        price: 780,
       },
       {
         id: 204,
@@ -118,7 +118,7 @@ const categories = [
         description:
           "گوشت چرخ‌کرده + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/goosht.png",
-        price: 740,
+        price: 885,
       },
       {
         id: 205,
@@ -126,7 +126,7 @@ const categories = [
         description:
           "گوشت ریش‌شده + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/roast.png",
-        price: 795,
+        price: 930,
       },
       {
         id: 206,
@@ -134,7 +134,7 @@ const categories = [
         description:
           "سینه مرغ ریش‌شده + ۳ مدل پنیر ترکیبی + قارچ بلانچ + فلفل دلمه‌ای و پیاز",
         image: "/images/chicken.png",
-        price: 700,
+        price: 850,
       },
       {
         id: 207,
@@ -142,28 +142,28 @@ const categories = [
         description:
           "نخودفرنگی + ذرت + قارچ بلانچ + فلفل دلمه‌ای + پیاز + ۳ مدل پنیر ترکیبی",
         image: "/images/sabzi.png",
-        price: 580,
+        price: 725,
       },
       {
         id: 208,
         name: "قارچ و فلفل",
         description: "قارچ بلانچ + فلفل دلمه‌ای + ۳ مدل پنیر ترکیبی",
         image: "/images/gharch-felfel.png",
-        price: 560,
+        price: 700,
       },
       {
         id: 209,
         name: "قارچ و پنیر",
         description: "قارچ بلانچ + ۳ مدل پنیر ترکیبی",
         image: "/images/gharch-panir.png",
-        price: 560,
+        price: 700,
       },
       {
         id: 210,
         name: "پنیر",
         description: "۳ مدل پنیر ترکیبی",
         image: "/images/panir.png",
-        price: 525,
+        price: 670,
       },
     ],
   },
@@ -176,7 +176,7 @@ const categories = [
         name: "همبرگر",
         description: "گوشت برگر + نان گرد + کاهو + خیارشور + گوجه + سس مخصوص",
         image: "/images/logo.png",
-        price: 240,
+        price: 320,
       },
       {
         id: 302,
@@ -184,7 +184,7 @@ const categories = [
         description:
           "گوشت برگر + قارچ بلانچ + نان گرد + کاهو + خیارشور + گوجه + سس مخصوص",
         image: "/images/logo.png",
-        price: 255,
+        price: 335,
       },
       {
         id: 303,
@@ -192,7 +192,7 @@ const categories = [
         description:
           "گوشت برگر + ۳ مدل پنیر ترکیبی + نان گرد + کاهو + خیارشور + گوجه + سس مخصوص",
         image: "/images/logo.png",
-        price: 255,
+        price: 335,
       },
       {
         id: 304,
@@ -200,7 +200,7 @@ const categories = [
         description:
           "گوشت برگر + ۳ مدل پنیر ترکیبی + قارچ بلانچ + نان گرد + کاهو + خیارشور + گوجه + سس مخصوص",
         image: "/images/logo.png",
-        price: 275,
+        price: 355,
       },
       {
         id: 305,
@@ -208,7 +208,7 @@ const categories = [
         description:
           "سینه مرغ ریش‌شده + فلفل دلمه‌ای + ۳ مدل پنیر ترکیبی + گوجه + کاهو + خیارشور + سس مخصوص شاپ",
         image: "/images/logo.png",
-        price: 240,
+        price: 320,
       },
       {
         id: 306,
@@ -216,7 +216,7 @@ const categories = [
         description:
           "گوشت ریش‌شده + فلفل دلمه‌ای + ۳ مدل پنیر ترکیبی + گوجه + کاهو + خیارشور + سس مخصوص شاپ",
         image: "/images/logo.png",
-        price: 300,
+        price: 390,
       },
     ],
   },
@@ -229,14 +229,14 @@ const categories = [
         name: "سالاد فصل بزرگ",
         description: "کاهو، کلم، گوجه، خیار، ذرت، نخود، کلم قرمز، هویج و زیتون",
         image: "/images/logo.png",
-        price: 95,
+        price: 110,
       },
       {
         id: 402,
         name: "سالاد فصل کوچک",
         description: "کاهو، کلم، گوجه، خیار، ذرت، نخود، کلم قرمز، هویج و زیتون",
         image: "/images/logo.png",
-        price: 75,
+        price: 85,
       },
     ],
   },
@@ -290,14 +290,14 @@ const categories = [
         name: "قارچ و پنیر اضافه روی پیتزا",
         description: "اضافه‌ها",
         image: "/images/logo.png",
-        price: 60,
+        price: 100,
       },
       {
         id: 602,
         name: "سس مخصوص شاپ",
         description: "اضافه‌ها",
         image: "/images/logo.png",
-        price: 30,
+        price: 50,
       },
     ],
   },
