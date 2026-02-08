@@ -249,7 +249,7 @@ const categories = [
         name: "نوشابه خانواده",
         description: "نوشیدنی",
         image: "/images/logo.png",
-        price: 68,
+        price: 85,
       },
       {
         id: 502,
@@ -263,7 +263,7 @@ const categories = [
         name: "دلستر هی دی",
         description: "نوشیدنی",
         image: "/images/logo.png",
-        price: 50,
+        price: 55,
       },
       {
         id: 504,
